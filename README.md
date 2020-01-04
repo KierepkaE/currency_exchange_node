@@ -1,8 +1,8 @@
 # currency_exchange_node
 
-###### Simple command line app
+### Simple command line app
 
-- You can get information about todays currency value.
+> You can get information about todays currency value.
 
 #### How to use?
 
@@ -11,6 +11,7 @@
 - in the console: `node app.js 'usd' `
 - currencies: `usd,chf,eur,gbp`
 - use results are saved to `currencies.txt`
+
 #### Tech:
 
 - `Node version: 10.15.0`
